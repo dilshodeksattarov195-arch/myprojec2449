@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrncrypt",
+        "uuid": 3810644,
+        "checksum": "2durf8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
